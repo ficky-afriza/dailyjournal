@@ -62,7 +62,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
 <div class="container mt-5">
-    <h2 class="text-center">Login</h2>
+    <h2 class="text-center">Welcome To My Daily Journal</h2>
     <form method="POST" action="" class="mt-4">
         <div class="mb-3">
             <label for="user" class="form-label">Username</label>
